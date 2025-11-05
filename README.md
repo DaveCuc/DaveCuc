@@ -22,9 +22,6 @@
 * Mi enfoque es la **eficacia**: actualmente construyo aplicaciones robustas y rápidas usando **CodeIgniter 4**.
   
 ### 🛠️ Mi Caja de Herramientas (Skills)
-
-Aquí puedes poner tus tecnologías. ¡Usar *badges* (escudos) es muy popular y visual!
-
 <p align="left">
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 4">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
