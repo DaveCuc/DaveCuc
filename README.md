@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/David-AI/tu-repo/main/linea-decorativa.svg" width="80%">
+
 </p>
 
 ### 💡 Sobre Mí
@@ -39,7 +39,7 @@ Aquí puedes poner tus tecnologías. ¡Usar *badges* (escudos) es muy popular y 
 ¡Siempre estoy abierto a charlar sobre tecnología, proyectos creativos o simplemente a saludar!
 
 * **LinkedIn:** www.linkedin.com/in/davidcuahutencos
-* **Email:** tu.email@ejemplo.com
+* **Email:** davecuc781@gmail.com
 
 ---
 
