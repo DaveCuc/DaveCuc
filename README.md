@@ -40,6 +40,8 @@
 * **LinkedIn:** www.linkedin.com/in/davidcuahutencos
 * **Email:** davecuc781@gmail.com
 
+Y si. Ese es mi gato 😺
+
 ---
 
 <!--
