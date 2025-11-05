@@ -2,8 +2,7 @@
 <h1 align="center">
   ¡Hola! Soy David Cuahutencos 👋
   <br>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> 
-  </h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />  </h1>
 
 <p align="center">
   Bienvenido/a a mi rincón de código. 
@@ -12,26 +11,28 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/David-AI/tu-repo/main/linea-decorativa.svg" width="80%">
-  </p>
+<img src="https://raw.githubusercontent.com/David-AI/tu-repo/main/linea-decorativa.svg" width="80%">
+</p>
 
 ### 💡 Sobre Mí
 
-* Soy un apasionado por eL desarrollo WEB
+* Soy un apasionado por el **Desarrollo Web** y la creación de experiencias de usuario limpias.
 * Me obsesiona el **detalle**: creo que las mejores soluciones radican en la precisión y el código limpio.
 * Mi enfoque es la **eficacia**: no solo que funcione, sino que funcione de manera óptima y elegante.
-* Actualmente estoy [Aprendiendo / Explorando / Construyendo] [Algo interesante, ej: React Native, optimización de queries, etc.]
-
+* Mi enfoque es la **eficacia**: actualmente construyo aplicaciones robustas y rápidas usando **CodeIgniter 4**.
+  
 ### 🛠️ Mi Caja de Herramientas (Skills)
 
 Aquí puedes poner tus tecnologías. ¡Usar *badges* (escudos) es muy popular y visual!
 
 <p align="left">
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 4">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  </p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
 ### 📫 ¿Conectamos?
 
