@@ -2,7 +2,7 @@
 <h1 align="center">
   ¡Hola! Soy David Cuahutencos 👋
   <br>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />  </h1>
+<img src="https://github.com/DaveCuc/DaveCuc/blob/main/1a.png" width="30" />  </h1>
 
 <p align="center">
   Bienvenido/a a mi rincón de código. 
