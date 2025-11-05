@@ -1,6 +1,6 @@
-## Hi there 👋
+
 <h1 align="center">
-  ¡Hola! Soy [Tu Nombre] 👋
+  ¡Hola! Soy David Cuahutencos 👋
   <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> 
   </h1>
@@ -17,7 +17,7 @@
 
 ### 💡 Sobre Mí
 
-* Soy un apasionado por [Tu Área Principal, ej: Desarrollo Web, Data Science, etc.]
+* Soy un apasionado por eL desarrollo WEB
 * Me obsesiona el **detalle**: creo que las mejores soluciones radican en la precisión y el código limpio.
 * Mi enfoque es la **eficacia**: no solo que funcione, sino que funcione de manera óptima y elegante.
 * Actualmente estoy [Aprendiendo / Explorando / Construyendo] [Algo interesante, ej: React Native, optimización de queries, etc.]
@@ -37,7 +37,7 @@ Aquí puedes poner tus tecnologías. ¡Usar *badges* (escudos) es muy popular y 
 
 ¡Siempre estoy abierto a charlar sobre tecnología, proyectos creativos o simplemente a saludar!
 
-* **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario)
+* **LinkedIn:** www.linkedin.com/in/davidcuahutencos
 * **Email:** tu.email@ejemplo.com
 
 ---
