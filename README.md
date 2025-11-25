@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  ¡Hola! Soy David Cuahutencos 👋
+  ¡Hola! Soy David Cuahutencos
   <br>
 <img src="https://github.com/DaveCuc/DaveCuc/blob/main/1a.png" width="50" />  </h1>
 
@@ -14,14 +14,14 @@
 
 </p>
 
-### 💡 Sobre Mí
+### Un Poco Sobre Mí
 
 * Soy un apasionado por el **Desarrollo Web** y la creación de experiencias de usuario limpias.
 * Me obsesiona el **detalle**: creo que las mejores soluciones radican en la precisión y el código limpio.
 * Mi enfoque es la **eficacia**: no solo que funcione, sino que funcione de manera óptima y elegante.
 * Mi enfoque es la **eficacia**: actualmente construyo aplicaciones robustas y rápidas usando **CodeIgniter 4**.
   
-### 🛠️ Mi Caja de Herramientas (Skills)
+### Mi Caja de Herramientas (Skills)
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -33,7 +33,7 @@
 
 </p>
 
-### 📫 ¿Conectamos?
+### ¿Conectamos?
 
 ¡Siempre estoy abierto a charlar sobre tecnología, proyectos creativos o simplemente a saludar!
 
