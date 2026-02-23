@@ -19,7 +19,7 @@
 * Soy un apasionado por el **Desarrollo Web** y la creación de experiencias de usuario limpias.
 * Me obsesiona el **detalle**: creo que las mejores soluciones radican en la precisión y el código limpio.
 * Mi enfoque es la **eficacia**: no solo que funcione, sino que funcione de manera óptima y elegante.
-* Mi enfoque es la **eficacia**: actualmente construyo aplicaciones robustas y rápidas usando **CodeIgniter 4**.
+* Siempre **aprendo cosas nuevas**: actualmente construyo aplicaciones robustas y rápidas usando **CodeIgniter 4** y **NextJS**.
   
 ### Mi Caja de Herramientas (Skills)
 <p align="left">
