@@ -1,64 +1,68 @@
-
-<h1 align="center">
-  ¡Hola! Soy David Cuahutencos
-  <br>
-<img src="https://github.com/DaveCuc/DaveCuc/blob/main/1a.png" width="50" />  </h1>
+<h1 align="center">José David Cuahutencos Peña</h1>
+<h3 align="center">Ingeniero en Sistemas Computacionales | Desarrollador Web & IA</h3>
 
 <p align="center">
-  Bienvenido/a a mi rincón de código. 
-  <br>
-  Soy un desarrollador que transforma ideas creativas en soluciones <strong>eficaces</strong> y <strong>meticulosamente</strong> construidas.
+  <img src="https://github.com/DaveCuc/DaveCuc/blob/main/1a.png" width="80" />
 </p>
-
-<p align="center">
-
-</p>
-
-### Un Poco Sobre Mí
-
-* Soy un apasionado por el **Desarrollo Web** y la creación de experiencias de usuario limpias.
-* Me obsesiona el **detalle**: creo que las mejores soluciones radican en la precisión y el código limpio.
-* Mi enfoque es la **eficacia**: no solo que funcione, sino que funcione de manera óptima y elegante.
-* Siempre **aprendo cosas nuevas**: actualmente construyo aplicaciones robustas y rápidas usando **CodeIgniter 4** y **NextJS**.
-  
-### Mi Caja de Herramientas (Skills)
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 4">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Java">
-  
-
-
-
-</p>
-
-### ¿Conectamos?
-
-¡Siempre estoy abierto a charlar sobre tecnología, proyectos creativos o simplemente a saludar!
-
-* **LinkedIn:** www.linkedin.com/in/davidcuahutencos
-* **Email:** davecuc781@gmail.com
-
-Y si. Ese es mi gato 😺
 
 ---
 
-<!--
-**DaveCuc/DaveCuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Mis Proyectos Recientes
 
-Here are some ideas to get you started:
+* **Diatax:** Creador y desarrollador de un generador de documentación basado en IA multiagente, optimizando la creación y estructuración de documentos técnicos.
+* **Plataforma Integral de la Reserva de la Biosfera Tehuacán-Cuicatlán:** Desarrollo e implementación de un sistema de gestión turística regional.
+* **Cuahutencos Tech:** Fundador de una iniciativa de desarrollo de software y consultoría tecnológica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Mi Perfil Técnico
+
+**Habilidades Técnicas (Hard Skills):**
+* **Frontend:** React, Next.js, Vite, Tailwind CSS, Inertia.js, HTML5, CSS3, JavaScript.
+* **Backend:** Laravel, Node.js, PHP, Python.
+* **Inteligencia Artificial:** Desarrollo de IA Multiagentes, LLMs (Large Language Models), integración de APIs y frameworks para agentes.
+* **Infraestructura y Herramientas:** Git, bases de datos relacionales, mantenimiento de infraestructura TI y redes.
+
+**Habilidades Blandas (Soft Skills):**
+* **Resolución de problemas:** Capacidad analítica para el diagnóstico y solución de retos técnicos complejos.
+* **Atención al detalle:** Enfoque riguroso en la calidad del código, la arquitectura de software y el diseño visual meticuloso.
+* **Autogestión y Liderazgo:** Experiencia liderando proyectos desde la concepción hasta la implementación y despliegue.
+* **Comunicación efectiva:** Habilidad para traducir requerimientos técnicos y de negocio en soluciones funcionales.
+
+## ⚡ Lo Que Hago Mejor
+
+* **Desarrollo de Software Eficaz:** Construir aplicaciones robustas, rápidas y escalables.
+* **Diseño UI/UX:** Crear interfaces con una estética premium, elegante y minimalista, utilizando paletas de colores sobrias y técnicas como el glassmorphism.
+* **Automatización con IA:** Integrar agentes inteligentes y SDKs para potenciar flujos de trabajo, investigación y desarrollo de software.
+
+## 💡 Lo Que Me Gusta
+
+Me apasiona la intersección entre el desarrollo web moderno y la Inteligencia Artificial. Disfruto diseñar arquitecturas limpias, explorar nuevas tecnologías que optimicen el rendimiento, y crear herramientas que aporten un valor real y tangible a los usuarios.
+
+## 🌱 Lo Que Estoy Aprendiendo
+
+* Preparación para certificaciones formales en **Ciberseguridad**.
+* Perfeccionamiento y certificación en el idioma **Inglés**.
+* Investigación avanzada sobre agentes consultores académicos impulsados por IA.
+
+## 🧭 Mi Trayectoria Actual
+
+Actualmente me encuentro desarrollando mi proyecto de residencia profesional, enfocado en la creación de un agente consultor académico para la revisión de documentos institucionales. Al mismo tiempo, sigo impulsando soluciones tecnológicas y estableciendo la presencia digital de mi firma, Cuahutencos Tech.
+
+## 💼 Mi Experiencia
+
+* **Fundador & Desarrollador - Cuahutencos Tech (Tehuacán, Puebla):** Liderando proyectos de desarrollo web, consultoría en TI, y proporcionando servicios técnicos integrales.
+* **Desarrollador Full-Stack:** Amplia experiencia en la creación de plataformas personalizadas, sistemas de control de asistencia corporativos y plataformas de gestión turística.
+
+## 🎓 Educación
+
+* **Ingeniería en Sistemas Computacionales** (Último semestre)  
+  *Instituto Tecnológico de Tehuacán*
+
+---
+
+## 🤝 ¡Colaboremos!
+
+Siempre estoy abierto a discutir nuevas oportunidades, arquitecturas de software, innovación en IA o posibles colaboraciones.
+
+* 📧 **Email:** davecuc781@gmail.com
+* 🔗 **LinkedIn:** [www.linkedin.com/in/davidcuahutencos](https://www.linkedin.com/in/davidcuahutencos)
+* 🐱 Y sí, ese en la foto es mi gato.
