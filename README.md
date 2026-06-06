@@ -39,22 +39,18 @@ Me apasiona la intersección entre el desarrollo web moderno y la Inteligencia A
 
 ## 🌱 Lo Que Estoy Aprendiendo
 
-* Preparación para certificaciones formales en **Ciberseguridad**.
+* Certificaciones en **Ciberseguridad**.
 * Perfeccionamiento y certificación en el idioma **Inglés**.
 * Investigación avanzada sobre agentes consultores académicos impulsados por IA.
 
-## 🧭 Mi Trayectoria Actual
-
-Actualmente me encuentro desarrollando mi proyecto de residencia profesional, enfocado en la creación de un agente consultor académico para la revisión de documentos institucionales. Al mismo tiempo, sigo impulsando soluciones tecnológicas y estableciendo la presencia digital de mi firma, Cuahutencos Tech.
-
 ## 💼 Mi Experiencia
 
-* **Fundador & Desarrollador - Cuahutencos Tech (Tehuacán, Puebla):** Liderando proyectos de desarrollo web, consultoría en TI, y proporcionando servicios técnicos integrales.
+* **Fundador & Desarrollador - Cuahutencos Tech:** Liderando proyectos de desarrollo web, consultoría en TI, y proporcionando servicios técnicos integrales.
 * **Desarrollador Full-Stack:** Amplia experiencia en la creación de plataformas personalizadas, sistemas de control de asistencia corporativos y plataformas de gestión turística.
 
 ## 🎓 Educación
 
-* **Ingeniería en Sistemas Computacionales** (Último semestre)  
+* **Ingeniería en Sistemas Computacionales**
   *Instituto Tecnológico de Tehuacán*
 
 ---
