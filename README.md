@@ -40,7 +40,7 @@
 
   <h3>IA, Infraestructura y Herramientas</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,cloudflare,vscode&theme=dark" alt="Infraestructura y Herramientas" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,googlecloude,vscode&theme=dark" alt="Infraestructura y Herramientas" />
   </a>
 </div>
 
