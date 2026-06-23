@@ -73,13 +73,14 @@
 
 <div align="center">
   <a href="https://github.com/DaveCuc">
-    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=DaveCuc&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveCuc&layout=compact&langs_count=8&theme=radical" alt="Lenguajes Principales" />
+![DaveCuc's Stats](https://github-readme-stats.vercel.app/api?username=DaveCuc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+    ![DaveCuc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaveCuc&theme=vue-dark&hide_border=true)
+    ![DaveCuc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveCuc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
   </a>
 </div>
 
 <br>
 
 <p align="center">
-  <em>Nota de sistema: Sí, el de la foto es mi gato.</em>
+  <em>Si es mi gato!</em>
 </p>
