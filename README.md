@@ -72,12 +72,10 @@
 <h2 align="center">Estadísticas de GitHub</h2>
 
 <div align="center">
-  <a href="https://github.com/DaveCuc">
+
 ![DaveCuc's Stats](https://github-readme-stats.vercel.app/api?username=DaveCuc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-    ![DaveCuc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaveCuc&theme=vue-dark&hide_border=true)
-    ![DaveCuc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveCuc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-  </a>
-</div>
+![DaveCuc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaveCuc&theme=vue-dark&hide_border=true)
+![DaveCuc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveCuc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <br>
 
