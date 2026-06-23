@@ -50,15 +50,7 @@
 
 * **Diatax:** Creador y desarrollador de un generador de documentación basado en IA multiagente, optimizando la creación y estructuración de documentos técnicos.
 * **Plataforma Integral de la Reserva de la Biosfera Tehuacán-Cuicatlán:** Desarrollo e implementación de un sistema de gestión turística regional en colaboración institucional.
-* **Cuahutencos Tech:** Fundador de una iniciativa de desarrollo de software, diseño de marca y consultoría tecnológica.
-* **MasterPro:** Herramienta de gestión automatizada para el despliegue de aplicaciones en entornos de alojamiento compartido.
 
----
-
-## Experiencia Profesional
-
-* **Fundador & Desarrollador - Cuahutencos Tech:** Liderazgo en el ciclo de vida completo del desarrollo de software, provisión de servicios técnicos integrales y auditoría de redes.
-* **Desarrollador Full-Stack:** Desarrollo de plataformas personalizadas, sistemas de control de asistencia corporativos y plataformas de gestión turística de alto rendimiento.
 
 ---
 
